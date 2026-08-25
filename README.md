@@ -131,7 +131,7 @@ The onboarding experience introduces the application's four-step workflow:
 
 **Availability Window → Appointment Calculation → Quick Picks → Client-Ready Text**
 
-![SlotGen Overview](assets/01-slotgen-overview.png)
+![SlotGen Overview](assets/01-slotgen-home.png)
 
 ---
 
