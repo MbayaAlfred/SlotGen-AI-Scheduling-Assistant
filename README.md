@@ -351,46 +351,10 @@ SlotGen was developed using an **AI-assisted application development workflow wi
 | ----------------------- | --------------------------------------- |
 | AI-Assisted Development | Google AI Studio                        |
 | Generative AI           | Google Gemini                           |
-| Frontend                | *To be verified from repository source* |
-| Application Logic       | *To be verified from repository source* |
-| UI / Styling            | *To be verified from repository source* |
+| Vibe Coding             | Google Gemini                           |
 | Source Control          | Git / GitHub                            |
-| Deployment              | *To be documented*                      |
 
-> **Note:** The final technology stack will reflect technologies verified directly from the repository source rather than assumptions about AI-generated code.
 
----
-
-<a id="project-structure"></a>
-
-## 📂 Project Structure
-
-The repository is organized around the SlotGen application and supporting documentation.
-
-```text
-SlotGen/
-│
-├── README.md
-│
-├── src/
-│   └── application source
-│
-├── assets/
-│   ├── 01-slotgen-overview.png
-│   ├── 02-availability-and-generated-slots.png
-│   ├── 03-client-message-generation.png
-│   └── 04-whatsapp-booking-share.png
-│
-├── docs/
-│   └── project documentation
-│
-├── .gitignore
-└── application configuration
-```
-
-> This section will be updated to match the final repository structure.
-
----
 
 <a id="ai-development"></a>
 
@@ -405,9 +369,9 @@ Rather than limiting AI to question-and-answer interactions, I wanted to explore
 ```text
 Real-World Problem
         ↓
-Requirements Definition
+Requirements Definition & Planning
         ↓
-AI-Assisted Prototyping
+AI-Assisted Prototyping & Vibe Coding
         ↓
 Application Development
         ↓
@@ -424,6 +388,7 @@ AI-assisted development supported areas such as:
 
 * Requirements refinement
 * Rapid prototyping
+* Vibe Code prompting
 * Code generation
 * UI development
 * Feature iteration
