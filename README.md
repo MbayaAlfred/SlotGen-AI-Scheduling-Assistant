@@ -131,7 +131,7 @@ The onboarding experience introduces the application's four-step workflow:
 
 **Availability Window → Appointment Calculation → Quick Picks → Client-Ready Text**
 
-![SlotGen Overview](assets/01-slotgen-home.png)
+![](slotgenhome.png)
 
 ---
 
@@ -141,7 +141,7 @@ Users configure their availability, appointment duration, buffer settings, and o
 
 SlotGen then calculates the available booking windows.
 
-![SlotGen Availability](assets/02-availability-and-generated-slots.png)
+![](assets/slotselection.png)
 
 ---
 
@@ -151,7 +151,7 @@ Selected booking slots are transformed into formatted client communication.
 
 Users can personalize the output with information such as the client's name and timezone.
 
-![SlotGen Message](assets/03-client-message-generation.png)
+![SlotGen Message](assets/availability.png)
 
 ---
 
@@ -159,7 +159,7 @@ Users can personalize the output with information such as the client's name and 
 
 The prepared booking message can continue into the WhatsApp sharing workflow for review and sending.
 
-![SlotGen WhatsApp](assets/04-whatsapp-booking-share.png)
+![SlotGen WhatsApp](assets/client-message.png)
 
 ---
 
