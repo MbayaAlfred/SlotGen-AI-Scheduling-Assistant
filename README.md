@@ -141,7 +141,7 @@ Users configure their availability, appointment duration, buffer settings, and o
 
 SlotGen then calculates the available booking windows.
 
-![](assets/slotselection.png)
+![](slotselection.png)
 
 ---
 
@@ -151,7 +151,7 @@ Selected booking slots are transformed into formatted client communication.
 
 Users can personalize the output with information such as the client's name and timezone.
 
-![SlotGen Message](assets/availability.png)
+![](availability.png)
 
 ---
 
@@ -159,7 +159,7 @@ Users can personalize the output with information such as the client's name and 
 
 The prepared booking message can continue into the WhatsApp sharing workflow for review and sending.
 
-![SlotGen WhatsApp](assets/client-message.png)
+![](client-message.png)
 
 ---
 
